@@ -43,4 +43,4 @@ A list of open source projects related to the OpenMC Monte Carlo particle transp
 
 ## Training resources
 
-- [neutronics-workshop](https://github.com/fusion-energy/neutronics-workshop) - Jupyter notebook based training course for fusion neutronics
+- [neutronics-workshop](https://github.com/fusion-energy/neutronics-workshop) — Jupyter notebook based training course for fusion neutronics
