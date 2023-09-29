@@ -40,7 +40,7 @@ A list of open source projects related to the OpenMC Monte Carlo particle transp
 
 - [neutronics_material_maker](https://github.com/fusion-energy/neutronics_material_maker) — Make reproducible materials and standardize across codes
 - [openmc-plasma-source](https://github.com/fusion-energy/openmc-plasma-source) — Create a plasma source from input parameters
-- [PyNE](https://github.com/pyne/pyne) - Nuclear engieering toolkit to assist with modeling and simulation, see the [PyNe webpage](https://pyne.io/) for more!
+- [PyNE](https://github.com/pyne/pyne) - Nuclear engieering toolkit to assist with modeling and simulation
 
 ## Training resources
 
