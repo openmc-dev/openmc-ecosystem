@@ -26,6 +26,7 @@ A list of open source projects related to the OpenMC Monte Carlo particle transp
 - [CAD_to_DAGMC](https://github.com/fusion-energy/cad_to_dagmc) — Convert CAD geometry to DAGMC h5m files
 - [CAD_to_OpenMC](https://github.com/openmsr/CAD_to_OpenMC) — Convert STEP files to DAMC h5m files
 - [DAGMC](https://github.com/svalinn/DAGMC) — Direct accelerated geometry Monte Carlo toolkit
+- [GEOUNED](https://github.com/GEOUNED-code/GEOUNED) — Tool that converts CAD to CSG and vice versa
 - [Paramak](https://github.com/fusion-energy/paramak) — Parametric 3D fusion reactor CAD and neutronics models
 - [StellarMesh](https://github.com/Thea-Energy/stellarmesh) — DAGMC geometry creator
 
