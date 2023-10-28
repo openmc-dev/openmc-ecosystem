@@ -39,11 +39,11 @@ A list of open source projects related to the OpenMC Monte Carlo particle transp
 
 ## Convenience Tools
 
+- [MCPL](https://github.com/mctools/mcpl) — Tool for manipulating phase-space source files and passing between Monte Carlo codes
 - [neutronics_material_maker](https://github.com/fusion-energy/neutronics_material_maker) — Make reproducible materials and standardize across codes
 - [openmc_cell_segmenter](https://github.com/fusion-energy/openmc_cell_segmenter) — Segment OpenMC cells into smaller cells
 - [openmc-plasma-source](https://github.com/fusion-energy/openmc-plasma-source) — Create a plasma source from input parameters
-- [PyNE](https://github.com/pyne/pyne) - Nuclear engieering toolkit to assist with modeling and simulation
-- [MCPL](https://github.com/mctools/mcpl) — Monte Carlo Particle Lists, tool for manipulating phase-space source files. Ability to pass phase-spaces between various Monte Carlo particle codes.
+- [PyNE](https://github.com/pyne/pyne) — Nuclear engieering toolkit to assist with modeling and simulation
 - [TOGA](https://github.com/lanl/TOGA) — Multigroup cross section generation with optimization/analysis
 
 ## Training resources
