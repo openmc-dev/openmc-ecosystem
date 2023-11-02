@@ -30,10 +30,14 @@ A list of open source projects related to the OpenMC Monte Carlo particle transp
 - [Paramak](https://github.com/fusion-energy/paramak) — Parametric 3D fusion reactor CAD and neutronics models
 - [StellarMesh](https://github.com/Thea-Energy/stellarmesh) — DAGMC geometry creator
 
+## Nuclear Data
+
+- [data scripts](https://github.com/openmc-dev/data) — Scripts used to produce OpenMC nuclear data libraries
+- [FrendyPlus](https://jihulab.com/newcomputelab/frendyplus) — Data processing code built on top of Frendy that can generate HDF5 libraries for OpenMC
+
 ## Models and Validation
 
 - [benchmarks](https://github.com/mit-crpg/benchmarks) — Reactor physics benchmark models
-- [data scripts](https://github.com/openmc-dev/data) — Scripts used to produce OpenMC nuclear data libraries
 - [MSRE](https://github.com/openmsr/msre) — Detailed CAD model of the MSRE
 - [validation scripts](https://github.com/openmc-dev/validation) — Scripts used to automate V\&V activities
 
