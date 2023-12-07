@@ -10,6 +10,7 @@ A list of open source projects related to the OpenMC Monte Carlo particle transp
 
 ## Multiphysics and Coupling
 
+- [ARMI-OpenMC Plugin](https://github.com/terrapower/armicontrib-openmc) — OpenMC plugin for [ARMI](https://github.com/terrapower/armi)
 - [Aurora](https://github.com/aurora-multiphysics/aurora) — OpenMC wrapped as a MOOSE app
 - [Cardinal](https://github.com/neams-th-coe/cardinal) — OpenMC and nekRS wrapped as MOOSE apps
 - [ENRICO](https://github.com/enrico-dev/enrico) — Monte Carlo + CFD coupling application
