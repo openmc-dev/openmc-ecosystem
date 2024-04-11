@@ -41,6 +41,8 @@ A list of open source projects related to the OpenMC Monte Carlo particle transp
 - [benchmarks](https://github.com/mit-crpg/benchmarks) — Reactor physics benchmark models
 - [MSRE](https://github.com/openmsr/msre) — Detailed CAD model of the MSRE
 - [validation scripts](https://github.com/openmc-dev/validation) — Scripts used to automate V\&V activities
+- [JADE](https://github.com/JADE-V-V/JADE) — Automated framework for V\&V of nuclear data and transport codes
+- [open_fusion_benchmarks](https://github.com/eepeterson/openmc_fusion_benchmarks) — Automated framework for comparing OpenMC to fusion integral benchmarks
 
 ## Convenience Tools
 
