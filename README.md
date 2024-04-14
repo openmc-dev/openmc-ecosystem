@@ -43,6 +43,8 @@ A list of open source projects related to the OpenMC Monte Carlo particle transp
 - [validation scripts](https://github.com/openmc-dev/validation) — Scripts used to automate V\&V activities
 - [JADE](https://github.com/JADE-V-V/JADE) — Automated framework for V\&V of nuclear data and transport codes
 - [open_fusion_benchmarks](https://github.com/eepeterson/openmc_fusion_benchmarks) — Automated framework for comparing OpenMC to fusion integral benchmarks
+- [openmc-reactor-examples](https://github.com/mit-crpg/openmc-reactor-examples) — Example inputs for notional BWR, SFR, RBMK, TRIGA, VHTR, and VVER
+
 
 ## Convenience Tools
 
