@@ -21,6 +21,7 @@ A list of open source projects related to the OpenMC Monte Carlo particle transp
 
 - [csg2csg](https://github.com/makeclean/csg2csg) — Tool to translate between different CSG types
 - [openmc_mcnp_adapter](https://github.com/openmc-dev/openmc_mcnp_adapter) — Tool for converting MCNP to OpenMC
+- [openmc_serpent_adapter](https://github.com/openmc-dev/openmc_serpent_adapter) — Tool for converting Serpent to OpenMC
 
 ## CAD Ecosystem
 
