@@ -31,7 +31,7 @@ A list of open source projects related to the OpenMC Monte Carlo particle transp
 - [GEOUNED](https://github.com/GEOUNED-code/GEOUNED) — Tool that converts CAD to CSG and vice versa
 - [openmc_cad_adapter](https://github.com/openmc-dev/openmc_cad_adapter) — Convert OpenMC CSG to Cubit journal file
 - [Paramak](https://github.com/fusion-energy/paramak) — Parametric 3D fusion reactor CAD and neutronics models
-- [StellarMesh](https://github.com/Thea-Energy/stellarmesh) — DAGMC geometry creator
+- [Stellarmesh](https://github.com/stellarmesh/stellarmesh) — DAGMC geometry creator
 
 ## Nuclear Data
 
