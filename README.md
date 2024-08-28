@@ -48,6 +48,7 @@ A list of open source projects related to the OpenMC Monte Carlo particle transp
 
 ## Convenience Tools
 
+- [KDSource](https://github.com/KDSource/KDSource) — Tool for modeling particle sources using kernel density estimation
 - [MCPL](https://github.com/mctools/mcpl) — Tool for manipulating phase-space source files and passing between Monte Carlo codes
 - [neutronics_material_maker](https://github.com/fusion-energy/neutronics_material_maker) — Make reproducible materials and standardize across codes
 - [openmc_cell_segmenter](https://github.com/fusion-energy/openmc_cell_segmenter) — Segment OpenMC cells into smaller cells
