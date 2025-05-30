@@ -15,6 +15,7 @@ A list of open source projects related to the OpenMC Monte Carlo particle transp
 - [Cardinal](https://github.com/neams-th-coe/cardinal) — OpenMC and nekRS wrapped as MOOSE apps
 - [ENRICO](https://github.com/enrico-dev/enrico) — Monte Carlo + CFD coupling application
 - [ONIX](https://github.com/jlanversin/ONIX) — Python-based burnup code
+- [openmc2dolfinx](https://github.com/festim-dev/openmc2dolfinx) — Conversion of OpenMC VTK output to dolfinx functions (FEniCS)
 - [WATTS](https://github.com/watts-dev/watts) — Python-based tool for templated simulations
 
 ## Geometry Conversion
@@ -46,7 +47,6 @@ A list of open source projects related to the OpenMC Monte Carlo particle transp
 - [JADE](https://github.com/JADE-V-V/JADE) — Automated framework for V\&V of nuclear data and transport codes
 - [open_fusion_benchmarks](https://github.com/eepeterson/openmc_fusion_benchmarks) — Automated framework for comparing OpenMC to fusion integral benchmarks
 - [openmc-reactor-examples](https://github.com/mit-crpg/openmc-reactor-examples) — Example inputs for notional BWR, SFR, RBMK, TRIGA, VHTR, and VVER
-
 
 ## Convenience Tools
 
