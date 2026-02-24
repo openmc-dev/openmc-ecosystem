@@ -38,6 +38,7 @@ A list of open source projects related to the OpenMC Monte Carlo particle transp
 
 - [data scripts](https://github.com/openmc-dev/data) — Scripts used to produce OpenMC nuclear data libraries
 - [FrendyPlus](https://jihulab.com/newcomputelab/frendyplus) — Data processing code built on top of Frendy that can generate HDF5 libraries for OpenMC
+- [NCrystal](https://github.com/mctools/ncrystal) — Software library that provides thermal neutron scattering cross sections and events to Monte Carlo codes.
 
 ## Models and Validation
 
