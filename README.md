@@ -26,6 +26,7 @@ A list of open source projects related to the OpenMC Monte Carlo particle transp
 
 ## CAD Ecosystem
 
+- [Basalt](https://github.com/Thea-Energy/basalt) — Python meshing library for nuclear workflows
 - [CAD_to_DAGMC](https://github.com/fusion-energy/cad_to_dagmc) — Convert CAD geometry to DAGMC h5m files
 - [CAD_to_OpenMC](https://github.com/openmsr/CAD_to_OpenMC) — Convert STEP files to DAMC h5m files
 - [DAGMC](https://github.com/svalinn/DAGMC) — Direct accelerated geometry Monte Carlo toolkit
@@ -33,6 +34,7 @@ A list of open source projects related to the OpenMC Monte Carlo particle transp
 - [openmc_cad_adapter](https://github.com/openmc-dev/openmc_cad_adapter) — Convert OpenMC CSG to Cubit journal file
 - [Paramak](https://github.com/fusion-energy/paramak) — Parametric 3D fusion reactor CAD and neutronics models
 - [Stellarmesh](https://github.com/stellarmesh/stellarmesh) — DAGMC geometry creator
+- [XDG](https://github.com/xdg-org/xdg) — API for interacting with surface discretizations of CAD geometry
 
 ## Nuclear Data
 
